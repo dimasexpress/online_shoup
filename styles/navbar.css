@@ -1,0 +1,10 @@
+.navbar-default{
+    border-radius: 0;
+  }
+  .navbar-header{
+    display: block;
+    width: 100%;
+  }
+  .black-bg{
+    background: #000;
+  }
